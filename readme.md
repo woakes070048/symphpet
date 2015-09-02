@@ -1,6 +1,6 @@
 #Symfony 2 & OroCRM Vagrant box (for Windows 7 64)
 I made this box via puphpet.com (base box 'puphpet/ubuntu1404-x64') and tested on several machines.
-It's almost a standard config but i solved trubles:
+It's almost a standard config but i solved several problems:
 
  - Issue with php-fpm and non-ascii characters
  - Issue when vagrant can't find an ssh client
