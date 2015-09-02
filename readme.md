@@ -38,8 +38,10 @@ or (the guaranteed way):
  - Finally, in the Environment Variables window (as shown below), highlight the Path variable in the Systems Variable section and click the Edit button. Add "C:\cygwin64\bin" to the path line
  
 ##3. Installation and run
-Clone this repo and simply run:
+Clone this repo and simply run vagrant up:
 ```sh
+git clone https://github.com/stepansib/symphpet.git your_project_directory
+cd your_project_directory
 vagrant up
 ```
 
