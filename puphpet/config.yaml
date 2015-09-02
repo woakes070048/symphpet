@@ -3,7 +3,7 @@ vagrantfile:
     vm:
         box: puphpet/ubuntu1404-x64
         box_url: puphpet/ubuntu1404-x64
-        hostname: local.puphpet
+        hostname: local.symphet
         memory: '3072'
         cpus: '1'
         chosen_provider: virtualbox

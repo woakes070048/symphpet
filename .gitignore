@@ -1,2 +1,4 @@
 .idea
+.vagrant
+directory.conf
 todo.txt
